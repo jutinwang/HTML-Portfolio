@@ -17,6 +17,18 @@ body {
 
 }
 
+.my-picture{
+    width: 50%;
+    float: right;
+}
+
+.my-picture img{
+    width: 300px;
+    height: auto;
+    position: absolute;
+    right: 20%;
+    
+}
 .banner{
     width: 80%;
     height: 70%;
